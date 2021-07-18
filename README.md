@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahat101
 - 👀 I’m interested in  python
 - 🌱 I’m currently learning  php machine 
-- 💞️ I’m looking to collaborate on digital marketing
+- 💞️ I’m looking to collaborate on c,c++,java 
 - 📫 How to reach me rahatrobin009@gmail.com
 
 <!---
